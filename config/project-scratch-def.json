@@ -1,10 +1,10 @@
 {
-    "orgName": "pozil",
-    "edition": "Developer",
-    "language": "en_US",
-    "hasSampleData": "true",
-    "orgPreferences" : {
-        "enabled": ["S1DesktopEnabled"],
-        "disabled": ["S1EncryptedStoragePref2"]
+  "orgName": "Demo Company",
+  "edition": "Developer",
+  "features": [],
+  "settings": {
+    "lightningExperienceSettings": {
+        "enableS1DesktopEnabled": true
     }
+  }
 }
